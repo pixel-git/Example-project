@@ -7,7 +7,7 @@ import google.generativeai as genai
 import time
 
 # Configure Gemini AI
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=os.getenv("AIzaSyDogOuYhLHPjBOQs1gtBFHMh_-_lF_rzHo"))
 
 class ATSAnalyzer:
     @staticmethod
